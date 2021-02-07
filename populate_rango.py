@@ -16,7 +16,7 @@ def populate():
          'url':'http://www.greenteapress.com/thinkpython/',
          'views': 15},
         {'title':'Learn Python in 10 Minutes',
-         'url':'http://www,korokithakis.net/tutorials/python/',
+         'url':'http://www.korokithakis.net/tutorials/python/',
          'views': 6} ]
 
     django_pages = [
@@ -32,7 +32,7 @@ def populate():
 
     other_pages = [
         {'title':'Bottle',
-         'url':'http://bottlepy.ord/docs/dev/',
+         'url':'http://bottlepy.org/docs/dev/',
          'views': 3},
         {'title':'Flask',
          'url':'http://flask.pocoo.org',
